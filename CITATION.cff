@@ -32,7 +32,7 @@ keywords:
   - "sandboxing"
   - "AI liability"
 license: "CC-BY-4.0"
-url: "<REPLACE_WITH_GITHUB_REPOSITORY_URL>"
+url: "https://github.com/Frankie-research/unintentional-execution-consequences-ai-agents"
 related-identifiers:
   - relation: "isSupplementTo"
     identifier: "https://doi.org/10.5281/zenodo.22985434"
