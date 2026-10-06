@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use or cite this report, please cite the report as follows."
+title: "Unintentional Execution Consequences and Guardrail Shortcut Behaviors in Autonomous AI Agents: A Technical, Safety, and Legal Liability Analysis"
+type: report
+version: "1.0"
+date-released: 2026-10-05
+authors:
+  - family-names: "Mak"
+    given-names: "Frankie"
+    affiliation: "Independent Researcher and Technology Practitioner, Australia"
+abstract: >-
+  This report examines how autonomous AI agents can produce unintended execution
+  consequences when optimization objectives, proxy metrics, operational constraints,
+  and environmental affordances do not fully encode human intent. It develops a
+  taxonomy of guardrail shortcut and higher-order lateral shortcut behaviors and
+  distinguishes observed practitioner evidence from analytical scenarios and external
+  AI-safety research, using a personal-computer Hermes Agent deployment as a bounded
+  case study.
+keywords:
+  - "agentic AI"
+  - "AI safety"
+  - "alignment"
+  - "guardrail shortcut"
+  - "specification gaming"
+  - "reward hacking"
+  - "power seeking"
+  - "alignment faking"
+  - "AI security"
+  - "autonomous agents"
+  - "Hermes Agent"
+  - "least privilege"
+  - "sandboxing"
+  - "AI liability"
+license: "CC-BY-4.0"
+url: "<REPLACE_WITH_GITHUB_REPOSITORY_URL>"
+related-identifiers:
+  - relation: "isSupplementTo"
+    identifier: "https://doi.org/10.5281/zenodo.22985434"
+    scheme: "doi"
