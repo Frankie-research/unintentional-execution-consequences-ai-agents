@@ -3,6 +3,7 @@ message: "If you use or cite this report, please cite the report as follows."
 title: "Unintentional Execution Consequences and Guardrail Shortcut Behaviors in Autonomous AI Agents: A Technical, Safety, and Legal Liability Analysis"
 type: report
 version: "1.0"
+doi: "10.5281/zenodo.23191226"
 date-released: 2026-10-05
 authors:
   - family-names: "Mak"
