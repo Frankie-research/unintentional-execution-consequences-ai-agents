@@ -61,7 +61,7 @@ The earlier report established the practical security boundary problem around lo
 
 Please cite the Zenodo version once the DOI is assigned.
 
-A DOI placeholder is intentionally not embedded in this initial repository package; the final DOI should be inserted after the first Zenodo release is published..
+A DOI placeholder is intentionally not embedded in this initial repository package; the final DOI should be inserted after the first Zenodo release is published.
 
 ## Licence
 
