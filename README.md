@@ -52,8 +52,8 @@ The earlier report established the practical security boundary problem around lo
 
 ## Files
 
-- `Unintentional_Execution_Guardrail_Shortcuts_AI_Agents_v1.0.docx` — public report (canonical editable source).
-- `Unintentional_Execution_Guardrail_Shortcuts_AI_Agents_v1.0.pdf` — public PDF generated directly from the canonical DOCX.
+- `paper/Unintentional_Execution_Guardrail_Shortcuts_AI_Agents_v1.0.docx` — public report (canonical editable source).
+- `paper/Unintentional_Execution_Guardrail_Shortcuts_AI_Agents_v1.0.pdf` — public PDF generated directly from the canonical DOCX.
 - `CITATION.cff` — machine-readable citation metadata.
 - `PUBLICATION_CHECKLIST.md` — release checklist.
 
@@ -61,7 +61,7 @@ The earlier report established the practical security boundary problem around lo
 
 Please cite the Zenodo version once the DOI is assigned.
 
-A DOI placeholder is intentionally not embedded in this initial repository package; the final DOI should be inserted after the first Zenodo release is published. The GitHub repository URL placeholder in `CITATION.cff` should likewise be replaced with the actual repository URL after repository creation.
+A DOI placeholder is intentionally not embedded in this initial repository package; the final DOI should be inserted after the first Zenodo release is published. A DOI placeholder is intentionally not embedded in this initial repository package; the final DOI should be inserted after the first Zenodo release is published.
 
 ## Licence
 
