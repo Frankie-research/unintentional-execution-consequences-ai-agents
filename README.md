@@ -59,9 +59,7 @@ The earlier report established the practical security boundary problem around lo
 
 ## Citation
 
-## Citation
-
-Mak, F. (2026). *Unintentional Execution Consequences and Guardrail Shortcut Behaviors in Autonomous AI Agents: A Technical, Safety, and Legal Liability Analysis* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23191226
+Mak, F. (2026). *Unintentional Execution Consequences and Guardrail Shortcut Behaviors in Autonomous AI Agents: A Technical, Safety and Legal Liability Analysis* (Version 1.0). Zenodo. [https://doi.org/10.5281/zenodo.23191226](https://doi.org/10.5281/zenodo.23191226)
 
 ## Licence
 
